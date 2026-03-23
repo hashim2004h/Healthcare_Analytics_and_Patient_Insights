@@ -32,7 +32,7 @@ An interactive data analytics project that analyzes healthcare appointment patte
 
 ---
 
-## 🛠 Technologies Used
+## Technologies Used
 
 - Python (Data Cleaning & Processing)  
 - Pandas & SQLite  
