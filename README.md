@@ -59,17 +59,6 @@ An interactive data analytics project that analyzes healthcare appointment patte
 - Gender-wise Attendance  
 - Waiting Time Impact  
 
----
 
-## How to Use
-
-1. Download the `.pbix` file  
-2. Open in Power BI Desktop  
-3. Load dataset if required  
-4. Explore dashboard visuals  
-
----
-
-To analyze healthcare appointment data and uncover patterns that can help improve patient attendance and optimize scheduling efficiency.
 
 ---
